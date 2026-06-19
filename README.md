@@ -9,4 +9,12 @@ I can work in a team of passionate programmers or game developers(2d) only as i 
 Sorry I can't provide the virtual environment as Github getting crashed but it works with
 
 pip install tensorflow
+
 pip install mediapipe
+
+pip install numpy
+
+pip install open-cv
+
+
+
