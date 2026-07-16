@@ -18,7 +18,7 @@ pip install mediapipe
 
 pip install numpy
 
-pip install open-cv
+pip install opencv-contrib-python
 
 This works by training the model and then going through the layers and then testing.
 
